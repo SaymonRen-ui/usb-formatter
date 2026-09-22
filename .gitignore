@@ -1,0 +1,10 @@
+# PyInstaller
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Локальные настройки (тема хранится рядом с exe у пользователя)
+.usb_formatter_theme
